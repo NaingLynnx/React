@@ -1,0 +1,10 @@
+.increase{
+    background-color: #008000;
+}
+.decrease{
+    background-color: #ff0000;
+}
+.btn{
+    margin: 10px;
+    padding: 20px;
+}

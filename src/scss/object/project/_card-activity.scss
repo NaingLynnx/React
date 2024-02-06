@@ -1,0 +1,27 @@
+.item-input{
+    display: flex;
+    padding: 20px;
+    width: 900px;
+}
+
+.task-bloc{
+
+
+
+    &__box{
+
+        display: flex;
+        justify-content: space-between;
+    
+        .task-txt{
+
+            
+          
+        }
+        .task-btn{
+          
+            
+            // background-color: red;
+        }
+    }
+}

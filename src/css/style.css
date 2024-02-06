@@ -1,0 +1,27 @@
+.l-wrap {
+  width: 1090px;
+  background-color: #cfcfcf;
+}
+
+.l-wrap-inner {
+  margin: 0 auto;
+  width: 900px;
+}
+
+.btn--add {
+  display: flex;
+  padding: 8px;
+  margin: 20px;
+  background-color: #000000;
+}
+
+.item-input {
+  display: flex;
+  padding: 20px;
+  width: 900px;
+}
+
+.task-bloc__box {
+  display: flex;
+  justify-content: space-between;
+}/*# sourceMappingURL=style.css.map */
